@@ -7,3 +7,6 @@ To initialize project, run script.sh by passing node server port number and post
 
 For example, the following script will create a postgres database named "mydb", and run node server on port 3000:
 `bash script.sh 3000 mydb`
+
+To run server use:
+`npm run dev`
